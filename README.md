@@ -1,6 +1,6 @@
 ### Hello, Welcome to my Github profile.
 
-I've finished my [B.Tech](http://b.Tech) in Electronics and Telecommunication Engineering(2016-2020) from IIIT Bhubaneswar. During my final semester I joined Masai School in Back-End development program where I deliberately did more than 1000 hrs of programming, building my problem solving skill, learning data structure and algorithm and creating several CRUD applications.
+
 
 # Skills
 
